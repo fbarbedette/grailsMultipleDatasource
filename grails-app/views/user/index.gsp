@@ -1,0 +1,1 @@
+users size = ${users.size()}
